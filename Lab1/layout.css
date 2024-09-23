@@ -4,5 +4,12 @@
     box-sizing: border-box;
 }
 body{
+    width: 100%;
     font-family: Arial, Helvetica, sans-serif;
+}
+header, nav, article, div, footer{
+    border: 1px gray solid;
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
 }
